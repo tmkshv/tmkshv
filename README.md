@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm Timur
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=ECE+Student+%40+UW+Seattle;Bridging+Software+%26+Hardware+%F0%9F%A4%96;Building+Autonomous+Systems)
-
 ### 🚀 Building things that work — bridging software and hardware 🤖
 
 🎓 **ECE Student** @ University of Washington, Seattle  
