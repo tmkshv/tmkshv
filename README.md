@@ -28,18 +28,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 </p>
 
 *🤖 **AI-Assisted Development:** Experienced with Cursor for accelerated building and code optimization.*
 
 ---
-
-## 📊 Git Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmkshv&show_icons=true&theme=dark" alt="Timur's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmkshv&layout=compact&theme=dark" alt="Timur's Top Languages" width="48%" />
-</p>
-
-</div>
