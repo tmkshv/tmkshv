@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Timur
 
-## Building things that work — bridging software and hardware 🤖
+## Building things that work — bridging software and hardware 
 
 * 🎓 I'm an ECE student @ **University of Washington, Seattle**.
 * 🤖 Deeply interested in **Embedded Systems and Robotics** — specifically bridging the gap between hardware instrumentation and scalable full-stack software.
