@@ -6,5 +6,5 @@
 * 🤖 Deeply interested in **Embedded Systems and Robotics** — specifically bridging the gap between hardware instrumentation and scalable full-stack software.
 * 🛠️ I focus on data structures, efficient algorithm design, and building robust software logic.
 * 📍 Based in **Seattle, WA**.
-* 💬 Ask me about **FastAPI, React/TypeScript dashboards, or Python data pipelines**.
-* 📫 Feel free to reach out via [LinkedIn](https://linkedin.com/in/timur-mukushev-0ab2a33b4) or email at **tdm28@uw.edu**
+
+* 📫 Feel free to reach out via [Email](tdm28@uw.edu) | [LinkedIn](https://linkedin.com/in/timur-mukushev-0ab2a33b4)
